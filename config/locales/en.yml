@@ -137,7 +137,7 @@ en:
         text: "Easily integrate Matestack into existing Rails projects. Switch to the fullstack Ruby experience step by step."
       components:
         icon: "matestack-ruby.png"
-        title: "Plugable UI components"
+        title: "Pluggable UI components"
         text: "Enjoy saving tons of time by using matestack's growing library of UI components written in pure Ruby."
       extensible:
         icon: "matestack-branches.png"
